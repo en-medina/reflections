@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	git create an empty repository, because I need to commit files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	
+	the Staging area is a place where git have to add files to be commit, this area is temporal. Next, working directory is a place where git save all the commits of a project, this place can be saved local or remote.
+
+"C:\Program Files\Sublime Text 3\sublime_text.exe"
