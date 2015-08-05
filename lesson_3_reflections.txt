@@ -13,4 +13,8 @@ Describe the differences between forks, clones, and branches. When would you use
 
 	forks used to clone someone else project to your github account directly.
 
-	I{d use branch to divide my project in different version, or when I work with someone else. Instead, I'd use clone when I want to modify only in my local pc a project. But If I want to clone and post in github someone else project, I'd fork it.
+	I'd use branch to divide my project in different version, or when I work with someone else. Instead, I'd use clone when I want to modify only in my local pc a project. But If I want to clone and post in github someone else project, I'd fork it.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	You know what was in your remote repository after you add some chance locally, and you can merge it and update your chance in the point you pulled it to your machine.
